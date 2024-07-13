@@ -1,0 +1,7 @@
+M:\Visual Studio 2022 Projects\Presentation Site\PresentationSite\PresentationSite\bin\Release\net8.0\publish\PresentationSite.exe
+M:\Visual Studio 2022 Projects\Presentation Site\PresentationSite\PresentationSite\bin\Release\net8.0\publish\appsettings.Development.json
+M:\Visual Studio 2022 Projects\Presentation Site\PresentationSite\PresentationSite\bin\Release\net8.0\publish\appsettings.json
+M:\Visual Studio 2022 Projects\Presentation Site\PresentationSite\PresentationSite\bin\Release\net8.0\publish\PresentationSite.dll
+M:\Visual Studio 2022 Projects\Presentation Site\PresentationSite\PresentationSite\bin\Release\net8.0\publish\PresentationSite.deps.json
+M:\Visual Studio 2022 Projects\Presentation Site\PresentationSite\PresentationSite\bin\Release\net8.0\publish\PresentationSite.runtimeconfig.json
+M:\Visual Studio 2022 Projects\Presentation Site\PresentationSite\PresentationSite\bin\Release\net8.0\publish\PresentationSite.pdb

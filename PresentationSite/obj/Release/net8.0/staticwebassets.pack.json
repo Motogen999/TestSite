@@ -1,0 +1,513 @@
+{
+  "Files": [
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\PresentationSite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PresentationSite.bundle.scp.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\.editorconfig",
+      "PackagePath": "staticwebassets\\.editorconfig"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\.gitignore",
+      "PackagePath": "staticwebassets\\.gitignore"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\LICENSE",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\dist\\assets\\favicon.ico"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\bg-masthead.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\bg-masthead.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\portfolio\\fullsize\\1.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\portfolio\\fullsize\\1.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\portfolio\\fullsize\\2.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\portfolio\\fullsize\\2.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\portfolio\\fullsize\\3.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\portfolio\\fullsize\\3.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\portfolio\\fullsize\\4.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\portfolio\\fullsize\\4.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\portfolio\\fullsize\\5.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\portfolio\\fullsize\\5.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\portfolio\\fullsize\\6.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\portfolio\\fullsize\\6.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\portfolio\\thumbnails\\1.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\portfolio\\thumbnails\\1.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\portfolio\\thumbnails\\2.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\portfolio\\thumbnails\\2.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\portfolio\\thumbnails\\3.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\portfolio\\thumbnails\\3.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\portfolio\\thumbnails\\4.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\portfolio\\thumbnails\\4.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\portfolio\\thumbnails\\5.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\portfolio\\thumbnails\\5.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\assets\\img\\portfolio\\thumbnails\\6.jpg",
+      "PackagePath": "staticwebassets\\dist\\assets\\img\\portfolio\\thumbnails\\6.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\css\\styles.css",
+      "PackagePath": "staticwebassets\\dist\\css\\styles.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\index.html",
+      "PackagePath": "staticwebassets\\dist\\index.html"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\dist\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\dist\\js\\scripts.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\package-lock.json",
+      "PackagePath": "staticwebassets\\package-lock.json"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\package.json",
+      "PackagePath": "staticwebassets\\package.json"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\scripts\\build-assets.js",
+      "PackagePath": "staticwebassets\\scripts\\build-assets.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\scripts\\build-pug.js",
+      "PackagePath": "staticwebassets\\scripts\\build-pug.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\scripts\\build-scripts.js",
+      "PackagePath": "staticwebassets\\scripts\\build-scripts.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\scripts\\build-scss.js",
+      "PackagePath": "staticwebassets\\scripts\\build-scss.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\scripts\\clean.js",
+      "PackagePath": "staticwebassets\\scripts\\clean.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\scripts\\render-assets.js",
+      "PackagePath": "staticwebassets\\scripts\\render-assets.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\scripts\\render-pug.js",
+      "PackagePath": "staticwebassets\\scripts\\render-pug.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\scripts\\render-scripts.js",
+      "PackagePath": "staticwebassets\\scripts\\render-scripts.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\scripts\\render-scss.js",
+      "PackagePath": "staticwebassets\\scripts\\render-scss.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\scripts\\sb-watch.js",
+      "PackagePath": "staticwebassets\\scripts\\sb-watch.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\scripts\\start-debug.js",
+      "PackagePath": "staticwebassets\\scripts\\start-debug.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\scripts\\start.js",
+      "PackagePath": "staticwebassets\\scripts\\start.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\src\\assets\\favicon.ico"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\bg-masthead.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\bg-masthead.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\portfolio\\fullsize\\1.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\portfolio\\fullsize\\1.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\portfolio\\fullsize\\2.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\portfolio\\fullsize\\2.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\portfolio\\fullsize\\3.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\portfolio\\fullsize\\3.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\portfolio\\fullsize\\4.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\portfolio\\fullsize\\4.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\portfolio\\fullsize\\5.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\portfolio\\fullsize\\5.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\portfolio\\fullsize\\6.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\portfolio\\fullsize\\6.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\portfolio\\thumbnails\\1.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\portfolio\\thumbnails\\1.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\portfolio\\thumbnails\\2.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\portfolio\\thumbnails\\2.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\portfolio\\thumbnails\\3.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\portfolio\\thumbnails\\3.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\portfolio\\thumbnails\\4.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\portfolio\\thumbnails\\4.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\portfolio\\thumbnails\\5.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\portfolio\\thumbnails\\5.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\assets\\img\\portfolio\\thumbnails\\6.jpg",
+      "PackagePath": "staticwebassets\\src\\assets\\img\\portfolio\\thumbnails\\6.jpg"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\src\\js\\scripts.js"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\pug\\index.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\index.pug"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\scss\\_global.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_global.scss"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_variables.scss"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\scss\\components\\_dividers.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\components\\_dividers.scss"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\scss\\components\\_navbar.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\components\\_navbar.scss"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\scss\\sections\\_masthead.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\sections\\_masthead.scss"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\scss\\sections\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\sections\\_portfolio.scss"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\styles.scss"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\scss\\variables\\_colors.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\variables\\_colors.scss"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\scss\\variables\\_spacing.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\variables\\_spacing.scss"
+    },
+    {
+      "Id": "M:\\Visual Studio 2022 Projects\\Presentation Site\\PresentationSite\\PresentationSite\\wwwroot\\src\\scss\\variables\\_typography.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\variables\\_typography.scss"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.PresentationSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.PresentationSite.props",
+      "PackagePath": "build\\PresentationSite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PresentationSite.props",
+      "PackagePath": "buildMultiTargeting\\PresentationSite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.PresentationSite.props",
+      "PackagePath": "buildTransitive\\PresentationSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
